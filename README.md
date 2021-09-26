@@ -5,7 +5,7 @@
 ## Status
 1. [ ] Homework 1: Autoregressive Models
     * [x] Fitting a Histogram and Mixture of Logistics
-    * [ ] MADE
+    * [x] MADE
     * [ ] PixelCNNs
 2. [ ] Homework 2: Flow Models
 3. [ ] Homework 3: Latent Variable Models
