@@ -8,7 +8,8 @@
     * [x] MADE
     * [x] PixelCNNs
 2. [ ] Homework 2: Flow Models
-    * [ ] 2D Data
+    * [x] Autoregressive Flow on 2D Data
+    * [ ] RealNVP on 2D Data
     * [ ] Autoregressive Flows for Images
     * [ ] RealNVP on Higher Dimensions
 3. [ ] Homework 3: Latent Variable Models
