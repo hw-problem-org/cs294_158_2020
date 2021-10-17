@@ -13,6 +13,11 @@
     * [ ] Autoregressive Flows for Images
     * [ ] RealNVP on Higher Dimensions
 3. [ ] Homework 3: Latent Variable Models
+    * [ ] VAEs on 2D Data
+    * [ ] VAEs on Images
+    * [ ] VQ-VAE
 4. [ ] Homework 4: GANs / Implicit Models
-
+    * [ ] GANs on 1D dataset
+    * [ ] GANs on CIFAR-10
+    * [ ] Representation Learning with BiGAN on MNIST
 
