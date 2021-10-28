@@ -7,11 +7,11 @@
     * [x] Fitting a Histogram and Mixture of Logistics
     * [x] MADE
     * [x] PixelCNNs
-2. [ ] Homework 2: Flow Models
+2. [x] Homework 2: Flow Models
     * [x] Autoregressive Flow on 2D Data
     * [x] RealNVP on 2D Data
     * [x] Autoregressive Flows for Images
-    * [ ] RealNVP on Higher Dimensions
+    * [x] RealNVP on Higher Dimensions
 3. [ ] Homework 3: Latent Variable Models
     * [ ] VAEs on 2D Data
     * [ ] VAEs on Images
